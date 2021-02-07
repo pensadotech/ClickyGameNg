@@ -29,13 +29,13 @@ Angular developer can benefit with this example applicaiton. It presents a ame s
 
 To start, the developer must have Angular CLI and NPM installed in the computer. Normally, it is recomended to have NodeJs that comes with teh lates NPM version. Te project can be cloned or downloaded, and initialized.  Here are the steps for getting started.
 
-1. For installing NodeJS refer to teh following link https://nodejs.org/en/
+1. For installing NodeJS refer to the following link https://nodejs.org/en/
 
 2. For installing Angular CLI, refer to the link: https://angular.io. However the command is as follows:
 
-`	
-  npm install -g @angular/cli
-`
+
+
+        npm install -g @angular/cli 
 
 
 3. Clone ordownload the project into the computer. After, the initialization, and using Microsoft Visual Code, the project folder should resemble as depicted below, and should be ready for execution.

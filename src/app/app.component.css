@@ -1,0 +1,21 @@
+.title {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  
+  .container {
+    background-color: #DBE9F4; 
+    /* Transparent background */
+    opacity: 0.9;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    /* Set min height to fill larger screens */
+    min-height: 500px;
+  }
+  
+  @media screen and (max-width: 985px) and (min-width: 767px) {
+    .container {
+        min-height: 420px;
+    }
+  }

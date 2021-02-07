@@ -1,0 +1,39 @@
+<div class="row gameRow" *ngIf='rowCards && rowCards.length'>
+
+  <div class="col-md-3">
+    <!-- <p>{{rowCards[startPos].cardId}}</p> -->
+    <cgm-game-card [cardId]='rowCards[startPos].cardId' 
+      [cardName]='rowCards[startPos].cardName'
+      [cardImage]='rowCards[startPos].cardIimageUrl'
+      (cardSelected)='onCardSelected($event)'>
+    </cgm-game-card>
+  </div>
+
+  <div class="col-md-3">
+    <!-- <p>{{rowCards[startPos + 1].cardId}}</p> -->
+    <cgm-game-card [cardId]='rowCards[startPos + 1].cardId' 
+      [cardName]='rowCards[startPos + 1].cardName'
+      [cardImage]='rowCards[startPos + 1].cardIimageUrl'
+      (cardSelected)='onCardSelected($event)'>
+    </cgm-game-card>
+  </div>
+
+  <div class="col-md-3">
+    <!-- <p>{{rowCards[startPos + 2].cardId}}</p> -->
+    <cgm-game-card [cardId]='rowCards[startPos + 2].cardId' 
+      [cardName]='rowCards[startPos + 2].cardName'
+      [cardImage]='rowCards[startPos + 2].cardIimageUrl'
+      (cardSelected)='onCardSelected($event)'>
+    </cgm-game-card>
+  </div>
+
+  <div class="col-md-3">
+    <!-- <p>{{rowCards[startPos + 3].cardId}}</p> -->
+    <cgm-game-card [cardId]='rowCards[startPos + 3].cardId' 
+      [cardName]='rowCards[startPos + 3].cardName'
+      [cardImage]='rowCards[startPos + 3].cardIimageUrl'
+      (cardSelected)='onCardSelected($event)'>
+    </cgm-game-card>
+  </div>
+
+</div>

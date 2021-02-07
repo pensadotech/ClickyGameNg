@@ -1,0 +1,32 @@
+<!-- cgm-game-header, set input for properties coming from app module  -->
+<cgm-game-header 
+    [hdrMsg] = 'gameMsg' 
+    [hdrScore] = 'score'
+    [hdrTopScore] = 'topScore'> 
+</cgm-game-header>
+
+<cgm-notification></cgm-notification>
+
+<div class="container" *ngIf='gameCards && gameCards.length'>  
+    
+    <cgm-game-row
+       [startPos] = 0
+       [rowCards] = 'gameCards' 
+       (cardSelected)='onCardSelected($event)'>
+    </cgm-game-row>
+
+    <cgm-game-row
+       [startPos] = 4
+       [rowCards] = 'gameCards' 
+       (cardSelected)='onCardSelected($event)'>
+    </cgm-game-row>
+
+    <cgm-game-row
+       [startPos] = 8
+       [rowCards] = 'gameCards' 
+       (cardSelected)='onCardSelected($event)'>
+    </cgm-game-row>
+    
+</div>
+
+<cgm-game-footer></cgm-game-footer>

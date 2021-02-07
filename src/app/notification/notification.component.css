@@ -1,0 +1,23 @@
+.notebanner {
+    min-height: 150px;
+    padding-top: 10px;
+    background-color: black;
+    color: white;
+    /* Transparent background */
+    opacity: 0.8;
+  }
+  
+  @media screen and (max-width: 985px) and (min-width: 767px) {
+    .notebanner {
+      padding-top: 10px;
+      padding-bottom: 5px;
+      height: 20px;
+      background-color: blue;
+    }
+  }
+  
+  @media screen and (max-width: 767px) {
+    .notebanner {
+      display: none;
+    }
+  }

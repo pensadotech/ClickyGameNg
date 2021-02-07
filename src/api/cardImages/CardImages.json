@@ -1,0 +1,87 @@
+[
+    {
+      "cardId": 1,
+      "cardName": "SpongeBob",
+      "cardIimageUrl": "./assets/images/gamecards/SpongeBob.png",
+      "occupation": "Fry Cook",
+      "location": "A Pineapple Under the Sea"
+    },
+    {
+      "cardId": 2,
+      "cardName": "Mr. Krabs",
+      "cardIimageUrl": "./assets//images/gamecards/Mr._Krabs.png",
+      "occupation": "Restaurant Owner",
+      "location": "A Giant Anchor"
+    },
+    {
+      "cardId": 3,
+      "cardName": "Squidward",
+      "cardIimageUrl": "./assets//images/gamecards/Squidward.png",
+      "occupation": "Cashier",
+      "location": "An Easter Island Head"
+    },
+    {
+      "cardId": 4,
+      "cardName": "Dexter",
+      "cardIimageUrl": "./assets//images/gamecards/BoyGenius.png",
+      "occupation": "Boy Genius",
+      "location": "A Secret Laboratory"
+    },
+    {
+      "cardId": 5,
+      "cardName": "Courage",
+      "cardIimageUrl": "./assets//images/gamecards/CourageDog.png",
+      "occupation": "A Cowardly Dog",
+      "location": "Nowhere, Kansas"
+    },
+    {
+      "cardId": 6,
+      "cardName": "Doug Funnie",
+      "cardIimageUrl": "./assets//images/gamecards/DougFunnie.gif",
+      "occupation": "Student",
+      "location": "Bluffington"
+    },
+    {
+      "cardId": 7,
+      "cardName": "Bugs Bunny",
+      "cardIimageUrl": "./assets//images/gamecards/Bugs_Bunny.png",
+      "occupation": "Looney Toon",
+      "location": "A Rabbit Burrow"
+    },
+    {
+      "cardId": 8,
+      "cardName": "Johnny Bravo",
+      "cardIimageUrl": "./assets//images/gamecards/Johnny_Bravo.png",
+      "occupation": "Ladies Man",
+      "location": "Aron City"
+    },
+    {
+      "cardId": 9,
+      "cardName": "Tommy Pickles",
+      "cardIimageUrl": "./assets//images/gamecards/Tommy_Pickles.png",
+      "occupation": "Adventurer",
+      "location": "California"
+    },
+    {
+      "cardId": 10,
+      "cardName": "Rocko",
+      "cardIimageUrl": "./assets//images/gamecards/Rocko.png",
+      "occupation": "Cashier",
+      "location": "O-Town, California"
+    },
+    {
+      "cardId": 11,
+      "cardName": "Captain Planet",
+      "cardIimageUrl": "./assets//images/gamecards/Captain_Planet.png",
+      "occupation": "Superhero",
+      "location": "Earth"
+    },
+    {
+      "cardId": 12,
+      "cardName": "Ickis",
+      "cardIimageUrl": "./assets//images/gamecards/ickis.png",
+      "occupation": "Ahhhh! A Real Monster!",
+      "location": "Under a City Dump"
+    }
+  ]
+  

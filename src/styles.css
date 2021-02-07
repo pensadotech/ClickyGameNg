@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Add bootstrap style and font awesome for all project templates */
+/*  Step 1: load them from terminal: npm install bootstrap font-awesome */
+/*  Step 2: refrence them here */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.min.css";
+
+
+body {
+    /* Remove margins and padding around content */
+    margin: 0;
+    padding: 0;
+    /* Fix background during scrolling */
+    background-attachment: fixed;
+    /* Use scalable background image (cross borwser) */
+    background-image: url("./assets/images/questionMarks.jpg");
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: #003A6C;
+}

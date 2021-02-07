@@ -1,0 +1,42 @@
+.header {
+    min-height: 100px;
+    padding: 25px 0px 0px 20px;
+    background-color:  rgb(20, 20, 104);
+    color: white;
+  }
+  
+  .header h1 {
+    font-size: 30px;
+  }
+  
+  .gameMsg{
+    color: orange;
+    padding: 10px;
+  }
+  
+  .logoImg{
+    height: 60px;
+  }
+  
+  .imgRnd10 {
+    /* Rounded image corners */
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+  }
+  
+  .imageShadow {
+    /* Add drop shadow */
+    -webkit-box-shadow: 2px 2px 3px 2px rgb(245, 230, 19);
+    -moz-box-shadow: 2px 2px 3px 2px rgb(245, 230, 19);
+    box-shadow: 2px 2px 3px 2px rgb(245, 230, 19);
+  }
+  
+  .imageRotate {
+    /* Rotate Image */
+    -webkit-transform: rotate( 3deg);
+    -moz-transform: rotate( 3deg);
+    -o-transform: rotate( 3deg);
+    -ms-transform: rotate( 3deg);
+    transform: rotate( 3deg);
+  }

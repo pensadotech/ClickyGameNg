@@ -1,0 +1,10 @@
+.footer {
+    min-height: 50px;
+    padding: 25px 0px 0px 20px;
+    background-color: rgb(20, 20, 104);
+    color: white;
+  }
+  
+  .footerImg {
+    width: 20px;
+  }

@@ -2,6 +2,7 @@
 
 _By Armando Pensado_
 
+**Note**: Updated to ng ver 14 on 2022-10-08
 ## Description
 
 The application is a memory game using Angular. The application falls into the definition of a single page application, and was built using several components. 

@@ -23,22 +23,21 @@ The user just needs to click a card to get the game started. There will be messa
 
 ## Who can benefit from this application
 
-Angular developer can benefit with this example applicaiton. It presents a ame structure broken into multiple components. Anyone learning Angular program can find it an interesting little challenge. 
+Angular developer can benefit with this example applicaiton. It presents a structure broken into multiple components. Anyone learning Angular program can find it an interesting little challenge. 
 
 ## How developers can get started
 
-To start, the developer must have Angular CLI and NPM installed in the computer. Normally, it is recomended to have NodeJs that comes with teh lates NPM version. Te project can be cloned or downloaded, and initialized.  Here are the steps for getting started.
+To start, the developer must have Angular CLI and NPM installed in the computer. Normally, it is recommended to have NodeJs that comes with the lates NPM version. Te project can be cloned or downloaded, and initialized.  Here are the steps for getting started.
 
 1. For installing NodeJS refer to the following link https://nodejs.org/en/
 
 2. For installing Angular CLI, refer to the link: https://angular.io. However the command is as follows:
 
 
-
         npm install -g @angular/cli
 
 
-3. Clone ordownload the project into the computer. After, the initialization, and using Microsoft Visual Code, the project folder should resemble as depicted below, and should be ready for execution.
+3. Clone or download the project into the computer. After, the initialization, and using Microsoft Visual Code, the project folder should resemble as depicted below, and should be ready for execution.
 
 ![layout](./docs/2.ClickyGame.vscode.png)
 
@@ -48,12 +47,12 @@ To start, the developer must have Angular CLI and NPM installed in the computer.
          npm start or ng serve -output
 
 
-At this point the game should be runing un der development mode.  The reader can use teh build command to create the deployment package for a web server.
+At this point the game should be running under development mode.  The reader can use the build command to create the deployment package for a web server.
 
 
 ## Who maintains and contributes to the project
 
-This is a personal project fro my own learing experience. 
+This is a personal project fro my own learning experience. 
 
 
 ## Where users can get help with the project

@@ -5,11 +5,10 @@ _By Armando Pensado_
 **Note**: Updated to ng ver 14 on 2022-10-08
 ## Description
 
-The application is a memory game using Angular. The application falls into the definition of a single page application, and was built using several components. 
+The application is a memory game using Angular [Angular CLI](https://github.com/angular/angular-cli). The application falls into the definition of a single page application, and was built using several components. 
 
 The general idea about the game, is that the application present twelve cards and the user need to start selecting them, remembering what was selected before.  To win the game the user must select all card only one time. Selecting a card twice, the game is lost.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
 ![Start](./docs/1.ClickyGame.png)
 
@@ -104,3 +103,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ### Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+For updating tha angular version : update.angular.io [AngularUpdate](https://update.angular.io/).

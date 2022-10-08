@@ -82,11 +82,11 @@ Use the `--prod` flag for a production build.
 
 For Tomcat servers, define the --base-href parameter for the folder that will contain the application. The command is as follows:
 
-   ng build --base-href <myFolder> --prod
+   ng build --base-href <myFolder> ---configuration production
 
 For example, if the application will be under webapps/static/ClientNg1, the command will be as follows:
   
-     ng build --base-href /static/ClientNg1/ --prod
+     ng build --base-href /static/ClientNg1/ --configuration production
 
 In this case the base-href is /static/ClientNg1/
 
